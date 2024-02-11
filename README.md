@@ -1,2 +1,12 @@
-# stopdemir.github.io
-stopdemir.github.io/portfolio
+# Data Scientist
+
+### Education
+Industrial Engineering, MSc
+
+### Work Experience
+Afiniti
+Sabancı University
+
+### Education
+
+### Projects

@@ -1,4 +1,12 @@
 # Data Scientist
+```javascript
+{
+  "firstName": "Süleyman",
+  "lastName": "Topdemir",
+  "year_of_birth": 1993,
+  "profession" : "Data Scientist",
+}
+```
 
 ## Work Experience
 - Data Scientist, Afiniti

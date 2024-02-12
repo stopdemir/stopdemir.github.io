@@ -4,7 +4,8 @@
   "firstName": "Süleyman",
   "lastName": "Topdemir",
   "year_of_birth": 1993,
-  "profession" : "Data Scientist",
+  "email" : "topdemirsuleyman13@gmail.com",
+  "profession" : "Data Scientist",  
 }
 ```
 

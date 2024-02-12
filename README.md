@@ -11,8 +11,8 @@
 
 ## Work Experience
 - Data Scientist, Afiniti
-- Teaching Asistant, Sabancı University
-- Reserach Asistant, Sabancı University
+- Teaching Assistant, Sabancı University
+- Research Assistant, Sabancı University
 - Intern, Turkish Aerospace Industries
 - Intern, Tempo Uno Kft.
 - Intern, BTA/TAV Airports
@@ -47,5 +47,7 @@ A Mathematical Model and Application on Prevention of Gerrymandering
 - Cinema Seminar (2018)
 - Smartcon Conference (2017)
 - Mathematical Foundations of Machine Learning (2016)
-- Unreasonable Labs Turkey sponsored by USA Consulate General
-- Endeavor CaseCampus Entrepreneurship Program sponsored by JP Morgan
+- Unreasonable Labs Turkey sponsored by USA Consulate General (2016)
+- Smartcon Conference (2016)
+- Endeavor CaseCampus Entrepreneurship Program sponsored by JP Morgan (2015)
+

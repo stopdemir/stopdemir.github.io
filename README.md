@@ -3,7 +3,7 @@
 {
   "firstName": "Süleyman",
   "lastName": "Topdemir",
-  "year_of_birth": 1993,
+  "yearOfBirth": 1993,
   "email" : "topdemirsuleyman13@gmail.com",
   "profession" : "Data Scientist",  
 }
@@ -11,8 +11,8 @@
 
 ## Work Experience
 - Data Scientist, Afiniti
-- Teaching Assistant, Sabancı University
-- Research Assistant, Sabancı University
+- Teaching Assistant, Sabanci University
+- Research Assistant, Sabanci University
 - Intern, Turkish Aerospace Industries
 - Intern, Tempo Uno Kft.
 - Intern, BTA/TAV Airports

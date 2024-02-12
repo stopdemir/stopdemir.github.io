@@ -33,5 +33,7 @@
 ## Position of Responsibility
 
 ## Master Thesis
+### A Mathematical Model and Application on Prevention of Gerrymandering
+[the link](https://research.sabanciuniv.edu/id/eprint/36870/)
 
 ## Projects

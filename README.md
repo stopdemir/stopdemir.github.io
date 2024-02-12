@@ -13,9 +13,14 @@
 - Industrial Engineering, MSc, Sabanci University
 - Industrial Engineering, MSc, Delft University of Technology
 - Industrial Engineering, Bachelor, TOBB University of Economy and Technology
-- Natural Science, High School, Isparta Science High School
+- Natural Sciences, High School, Isparta Science High School
 
 ## Achievements
+- **Full Scholarship**, Sabanci University, PhD
+- **Full Scholarship**, Sabanci University, MSc
+- **High Honor Degree**, TOBB University of Economics and Technology, BSc
+- **Full Scholarship**, TOBB University of Economics and Technology, BSc
+- **in top 0.2%**, National University Entrance Exam
 
 ## Position of Responsibility
 

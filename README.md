@@ -21,8 +21,8 @@
 - Industrial Engineering, PhD, Sabanci University
 - Industrial Engineering, MSc, Sabanci University
 - Industrial Engineering, MSc, Delft University of Technology
-- Industrial Engineering, BSc, TOBB University of Economy and Technology
-- Natural Sciences, High School, Isparta Science High School
+- Industrial Engineering, BSc, TOBB University of Economics and Technology
+- Natural Sciences, High School, Isparta Suleyman Demirel Science High School
 
 ## Achievements
 - **Full Scholarship**, Sabanci University, PhD

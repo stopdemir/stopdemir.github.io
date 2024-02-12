@@ -21,7 +21,7 @@
 - Industrial Engineering, PhD, Sabanci University
 - Industrial Engineering, MSc, Sabanci University
 - Industrial Engineering, MSc, Delft University of Technology
-- Industrial Engineering, Bachelor, TOBB University of Economy and Technology
+- Industrial Engineering, BSc, TOBB University of Economy and Technology
 - Natural Sciences, High School, Isparta Science High School
 
 ## Achievements
@@ -39,3 +39,13 @@ A Mathematical Model and Application on Prevention of Gerrymandering
 - [source code](https://github.com/stopdemir/Tabu-Search-Implementation)
 
 ## Projects
+
+## Programs
+
+- YGA Summit (2018)
+- Smartcon Conference (2018)
+- Cinema Seminar (2018)
+- Smartcon Conference (2017)
+- Mathematical Foundations of Machine Learning (2016)
+- Unreasonable Labs Turkey sponsored by USA Consulate General
+- Endeavor CaseCampus Entrepreneurship Program sponsored by JP Morgan

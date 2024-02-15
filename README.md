@@ -21,6 +21,7 @@ A Mathematical Model and Application on Prevention of Gerrymandering
 ### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
 
 - One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
+  ![](/assets/img/main_form.png)
 
 ## Work Experience
 - Data Scientist, Afiniti

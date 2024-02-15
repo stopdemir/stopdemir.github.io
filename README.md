@@ -23,6 +23,13 @@ A Mathematical Model and Application on Prevention of Gerrymandering
 - One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
   ![](/assets/img/main_form.png)
 
+### Political Districting Problem 
+![](/images/yes.png)
+<p>
+ <img src="/images/yes.png" width="47%" height="47%" />
+ <img src="/images/no.png" width="47%" height="47%" /> 
+</p>
+
 ## Work Experience
 - Data Scientist, Afiniti
 - Teaching Assistant, Sabanci University

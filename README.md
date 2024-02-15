@@ -17,12 +17,15 @@ A Mathematical Model and Application on Prevention of Gerrymandering
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 - Gibbs Sampling
 - Expectation-Maximization Algorithm
+<p>
+ <img src="/assets/img/pair_diagram.png" width="50%" height="50%" />
+</p>
   
 ### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
 
 - One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
 <p>
- <img src="/assets/img/main_form.png" width="47%" height="47%" />
+ <img src="/assets/img/main_form.png" width="50%" height="50%" />
 </p>
 
 ### [Political Districting Problem](https://github.com/stopdemir/Political-Districting-Problem)

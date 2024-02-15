@@ -24,10 +24,9 @@ A Mathematical Model and Application on Prevention of Gerrymandering
   ![](/assets/img/main_form.png)
 
 ### Political Districting Problem 
-![](/images/yes.png)
 <p>
- <img src="/images/yes.png" width="47%" height="47%" />
- <img src="/images/no.png" width="47%" height="47%" /> 
+ <img src="/assets/img/yes.png" width="47%" height="47%" />
+ <img src="assets/img/no.png" width="47%" height="47%" /> 
 </p>
 
 ## Work Experience

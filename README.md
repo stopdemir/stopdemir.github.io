@@ -23,7 +23,9 @@ A Mathematical Model and Application on Prevention of Gerrymandering
 - One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
   ![](/assets/img/main_form.png)
 
-### Political Districting Problem 
+### [Political Districting Problem](https://github.com/stopdemir/Political-Districting-Problem)
+- Demonstrating the detrimental effects of [gerrymandering](https://www.britannica.com/topic/Moore-v-Harper) with mathematical programming
+- the model is implemented by using CPLEX Java API
 <p>
  <img src="/assets/img/yes.png" width="47%" height="47%" />
  <img src="assets/img/no.png" width="47%" height="47%" /> 

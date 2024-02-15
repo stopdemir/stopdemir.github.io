@@ -8,6 +8,19 @@
   "profession" : "Data Scientist",  
 }
 ```
+## Works & Projects
+
+### [Master Thesis](https://github.com/stopdemir/Tabu-Search-Implementation)
+A Mathematical Model and Application on Prevention of Gerrymandering
+- [master thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+
+### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
+- Gibbs Sampling
+- Expectation-Maximization Algorithm
+  
+### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
+
+- One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
 
 ## Work Experience
 - Data Scientist, Afiniti
@@ -30,15 +43,6 @@
 - **High Honor Degree**, TOBB University of Economics and Technology, BSc
 - **Full Scholarship**, TOBB University of Economics and Technology, BSc
 - **in top 0.2%**, National University Entrance Exam
-
-## Position of Responsibility
-
-## Master Thesis
-A Mathematical Model and Application on Prevention of Gerrymandering
-- [master thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
-- [source code](https://github.com/stopdemir/Tabu-Search-Implementation)
-
-## Projects
 
 ## Programs
 

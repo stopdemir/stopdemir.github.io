@@ -13,6 +13,10 @@
 ### [Master Thesis](https://github.com/stopdemir/Tabu-Search-Implementation)
 A Mathematical Model and Application on Prevention of Gerrymandering
 - [master thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+<p>
+ <img src="/assets/img/europe.png" width="47%" height="47%" />
+ <img src="assets/img/asia.png" width="47%" height="47%" /> 
+</p>
 
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 - Gibbs Sampling

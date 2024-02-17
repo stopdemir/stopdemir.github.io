@@ -10,9 +10,13 @@
 ```
 ## Works & Projects
 
-### [Master Thesis](https://github.com/stopdemir/Tabu-Search-Implementation)
-A Mathematical Model and Application on Prevention of Gerrymandering
-- [master thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+### [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+- A Mathematical Model and Application on Prevention of Gerrymandering
+- Developed an analytical approaches in order to show the detrimental effects of a malpractise named gerrymandering
+- Several technologies have been used such as CPLEX Java API, R, QGIS.
+- A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases
+- A Tabu search algorithm has been employed for relatively large cases
+- [codebase](https://github.com/stopdemir/Tabu-Search-Implementation)
 <p>
  <img src="/assets/img/istanbul.png" />
 </p>

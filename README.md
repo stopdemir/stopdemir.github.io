@@ -21,6 +21,14 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 
+### [A Machine Learning Study on a Finance Data](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
+- Several Machine Learning Techniques
+- Feature Engineering
+- Dimensionality Reduction and Visualization of Dataset with a High Dimension
+  
+![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
+
+
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 - Gibbs Sampling
 - Expectation-Maximization Algorithm

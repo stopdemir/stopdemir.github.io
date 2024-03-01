@@ -21,10 +21,10 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 
-### [A Machine Learning Study on a Finance Data](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
+### [A Machine Learning Study on a Finance Dataset](https://github.com/stopdemir/Machine-Learning-Study)
 - Several Machine Learning Techniques
 - Feature Engineering
-- Dimensionality Reduction and Visualization of Dataset with a High Dimension
+- Dimensionality Reduction and Visualization of a High Dimensional Dataset
   
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
 

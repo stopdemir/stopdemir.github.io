@@ -52,19 +52,19 @@
 </p>
 
 ## Work Experience
-- Data Scientist, Afiniti
-- Teaching Assistant, Sabanci University
-- Research Assistant, Sabanci University
-- Intern, Turkish Aerospace Industries
-- Intern, Tempo Uno Kft.
-- Intern, BTA/TAV Airports
+- Data Scientist, Afiniti (2021-2022)
+- Teaching Assistant, Sabanci University (2016-2021)
+- Research Assistant, Sabanci University (2017)
+- Intern, Turkish Aerospace Industries (2016)
+- Intern, Tempo Uno Kft. (2015)
+- Intern, BTA/TAV Airports (2014)
 
 ## Education
-- Industrial Engineering, PhD, Sabanci University
-- Industrial Engineering, MSc, Sabanci University
-- Industrial Engineering, MSc, Delft University of Technology
-- Industrial Engineering, BSc, TOBB University of Economics and Technology
-- Natural Sciences, High School, Isparta Suleyman Demirel Science High School
+- Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
+- Industrial Engineering, MSc, Delft University of Technology (Erasmus+ 2017)
+- Industrial Engineering, MSc, Sabanci University (2016-2019)
+- Industrial Engineering, BSc, TOBB University of Economics and Technology (2011-2016)
+- Natural Sciences, High School, Isparta Süleyman Demirel Science High School (2007-2011)
 
 ## Achievements
 - **Full Scholarship**, Sabanci University, PhD

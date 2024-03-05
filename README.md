@@ -28,6 +28,14 @@
   
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
 
+### [Descriptive Data Analysis on an Ecommerce Dataset](https://github.com/stopdemir/ecommerce-data-analysis)
+- A Descriptive Statistical Data Analysis
+- Ecommerce Dataset
+- Funnel Analysis 
+<p>
+ <img src="/assets/img/dist_age_gender.png" />
+</p>
+
 
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 - Gibbs Sampling

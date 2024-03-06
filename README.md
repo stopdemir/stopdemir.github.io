@@ -36,12 +36,12 @@
  <img src="/assets/img/dist_age_gender.png" />
 </p>
 
-### [Recognizing Handwritten Digits by using Artificial Neural Network]([https://github.com/stopdemir/Machine-Learning-Study](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network)
+### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network)
 - Matlab Implementation of a Feed Forward Neural Network 
 - on MNIST Dataset
-  
-![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
-
+<p>
+ <img src="/assets/img/mnist_dataset_vis.png" width="50%" height="50%" />
+</p>
 
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 - Gibbs Sampling

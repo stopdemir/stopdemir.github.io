@@ -17,7 +17,7 @@
 - A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases
 - A Tabu search algorithm has been employed for relatively large cases
 - [codebase](https://github.com/stopdemir/Tabu-Search-Implementation)
-<p>
+<p align="center">
  <img src="/assets/img/istanbul.png" />
 </p>
 
@@ -32,35 +32,35 @@
 - A Descriptive Statistical Data Analysis
 - Ecommerce Dataset
 - Funnel Analysis 
-<p>
- <img src="/assets/img/dist_age_gender.png" />
+<p align="center">
+ <img src="/assets/img/dist_age_gender.png"/>
 </p>
 
 ### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network)
 - Matlab Implementation of a Feed Forward Neural Network 
 - on MNIST Dataset
-<p>
+<p align="center">
  <img src="/assets/img/mnist_dataset_vis.png" width="50%" height="50%" />
 </p>
 
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 - Gibbs Sampling
 - Expectation-Maximization Algorithm
-<p>
+<p align="center">
  <img src="/assets/img/pair_diagram.png" width="50%" height="50%" />
 </p>
   
 ### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
 
 - One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
-<p>
+<p align="center">
  <img src="/assets/img/main_form.png" width="50%" height="50%" />
 </p>
 
 ### [Political Districting Problem](https://github.com/stopdemir/Political-Districting-Problem)
 - Demonstrating the detrimental effects of [gerrymandering](https://www.britannica.com/topic/Moore-v-Harper) with mathematical programming
 - the model is implemented by using CPLEX Java API
-<p>
+<p align="center">
  <img src="/assets/img/yes.png" width="47%" height="47%" />
  <img src="assets/img/no.png" width="47%" height="47%" /> 
 </p>

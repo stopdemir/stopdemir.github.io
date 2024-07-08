@@ -21,7 +21,7 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 
-### [A Machine Learning Study on a Finance Dataset](https://github.com/stopdemir/Machine-Learning-Study)
+### [A Machine Learning Study on a Finance Dataset](https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb)
 - Several Machine Learning Techniques
 - Feature Engineering
 - Dimensionality Reduction and Visualization of a High Dimensional Dataset

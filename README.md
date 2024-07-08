@@ -75,7 +75,7 @@
 
 ## Education
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
-- Industrial Engineering, MSc, Delft University of Technology (Erasmus+ 2017)
+- Engineering and Policy Management, MSc, Delft University of Technology (Erasmus+ 2017)
 - Industrial Engineering, MSc, Sabanci University (2016-2019)
 - Industrial Engineering, BSc, TOBB University of Economics and Technology (2011-2016)
 - Natural Sciences, High School, Isparta Süleyman Demirel Science High School (2007-2011)

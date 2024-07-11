@@ -52,7 +52,7 @@
   
 ### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
 
-- One can enter/delete/retrieve information to the database by using the user interface that has been developed on MS Access
+- The user interface developed on MS Access allows users to effortlessly enter, delete, and retrieve information from the database
 <p align="center">
  <img src="/assets/img/main_form.png" width="50%" height="50%" />
 </p>

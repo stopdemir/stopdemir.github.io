@@ -36,7 +36,7 @@
  <img src="/assets/img/dist_age_gender.png"/>
 </p>
 
-### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network)
+### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf)
 - Matlab Implementation of a Feed Forward Neural Network 
 - on MNIST Dataset
 <p align="center">

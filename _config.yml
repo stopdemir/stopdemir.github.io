@@ -2,9 +2,8 @@ title: Süleyman Topdemir
 logo: /assets/img/st.png
 description: #text below the image
   <p><p align="center"> <a href="pdf/resume.pdf">Resume</a> | 
-  <a href="https://www.linkedin.com/in/stopdemir/">LinkedIn</a> |
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stopdemir) |
   <a href="https://github.com/stopdemir">GitHub</a> </p>
-<br></br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stopdemir) 
+   
 show_downloads: false
 theme: jekyll-theme-minimal

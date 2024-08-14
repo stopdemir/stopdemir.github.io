@@ -1,10 +1,8 @@
 title: Süleyman Topdemir
 logo: /assets/img/st.png
 description: #text below the image
-  First Description
-  <br><br>
-  Second Description
-  <br><br>
-  <a href="https://www.linkedin.com/in/stopdemir/">My Linkedin<a>
+  <p><p align="center"> <a href="pdf/resume.pdf">Resume</a> | 
+  <a href="https://www.linkedin.com/in/stopdemir/">LinkedIn</a> |
+  <a href="https://github.com/stopdemir">GitHub</a> </p>
 show_downloads: true
 theme: jekyll-theme-minimal

@@ -5,5 +5,4 @@ description: #text below the image
   <a href="https://linkedin.com/in/stopdemir">LinkedIn</a> |
   <a href="https://github.com/stopdemir">GitHub</a> </p>
 
-show_downloads: false
 theme: jekyll-theme-minimal

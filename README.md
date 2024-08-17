@@ -29,7 +29,7 @@
 ### [A Machine Learning Study on a Finance Dataset](https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb)
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
-  <img src=https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18 alt="Open Notebook">
+  <img src="https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18" alt="Open Notebook">
  </a>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">

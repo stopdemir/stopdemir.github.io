@@ -1,5 +1,5 @@
 # Data Scientist
-
+<hr>
 ```javascript
 {
   "firstName": "Süleyman",
@@ -11,15 +11,6 @@
 ```
 ## Works & Projects
 
-```javascript
-{
-  "firstName": "Süleyman",
-  "lastName": "Topdemir",
-  "yearOfBirth": 1993,
-  "email" : "topdemirsuleyman13@gmail.com",
-  "profession" : "Data Scientist",  
-}
-```
 
 ### [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
 <p>
@@ -35,7 +26,7 @@
 <p align="center">
  <img src="/assets/img/istanbul.png" />
 </p>
-
+<hr>
 
 ### [A Machine Learning Study on a Finance Dataset](https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb)
 <p>
@@ -51,7 +42,7 @@
 - Dimensionality Reduction and Visualization of a High Dimensional Dataset
   
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
-
+<hr>
 
 ### [Descriptive Data Analysis on an Ecommerce Dataset](https://github.com/stopdemir/ecommerce-data-analysis)
 <p>
@@ -65,7 +56,7 @@
 <p align="center">
  <img src="/assets/img/dist_age_gender.png"/>
 </p>
-
+<hr>
 
 ### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf)
 <p>
@@ -78,7 +69,7 @@
 <p align="center">
  <img src="/assets/img/mnist_dataset_vis.png" width="50%" height="50%" />
 </p>
-
+<hr>
 
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 <p>
@@ -91,7 +82,7 @@
 <p align="center">
  <img src="/assets/img/pair_diagram.png" width="50%" height="50%" />
 </p>
-
+<hr>
 
 ### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
 <p>
@@ -103,7 +94,7 @@
 <p align="center">
  <img src="/assets/img/main_form.png" width="50%" height="50%" />
 </p>
-
+<hr>
 
 ### [Political Districting Problem](https://github.com/stopdemir/Political-Districting-Problem)
 <p>
@@ -117,7 +108,7 @@
  <img src="/assets/img/yes.png" width="47%" height="47%" />
  <img src="assets/img/no.png" width="47%" height="47%" /> 
 </p>
-
+<hr>
 
 ## Work Experience
 - Data Scientist, Afiniti (2021-2022)
@@ -126,7 +117,7 @@
 - Intern, Turkish Aerospace Industries (2016)
 - Intern, Tempo Uno Kft. (2015)
 - Intern, BTA/TAV Airports (2014)
-
+<hr>
 
 ## Education
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
@@ -134,7 +125,7 @@
 - Industrial Engineering, MSc, Sabanci University (2016-2019)
 - Industrial Engineering, BSc, TOBB University of Economics and Technology (2011-2016)
 - Natural Sciences, High School, Isparta Süleyman Demirel Science High School (2007-2011)
-
+<hr>
 
 ## Achievements
 - **Full Scholarship**, Sabanci University, PhD

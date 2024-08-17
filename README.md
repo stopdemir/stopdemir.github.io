@@ -28,7 +28,7 @@
 </p>
 <hr>
 
-### [A Machine Learning Study on a Finance Dataset](https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb)
+### A Machine Learning Study on a Finance Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
   <img src="https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18" alt="Open Notebook">
@@ -44,7 +44,7 @@
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
 <hr>
 
-### [Descriptive Data Analysis on an Ecommerce Dataset](https://github.com/stopdemir/ecommerce-data-analysis)
+### Descriptive Data Analysis on an Ecommerce Dataset
 <p>
  <a href="https://github.com/stopdemir/ecommerce-data-analysis">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -58,10 +58,13 @@
 </p>
 <hr>
 
-### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf)
+### Recognizing Handwritten Digits by using Artificial Neural Network
 <p>
  <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf">
   <img src="https://img.shields.io/badge/PDF-Open_Report-blue?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
+ </a>
+ <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
 - Matlab Implementation of a Feed Forward Neural Network 
@@ -71,10 +74,13 @@
 </p>
 <hr>
 
-### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
+### Gibbs Sampling & EM Algorithm Implementation
 <p>
  <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf">
   <img src="https://img.shields.io/badge/PDF-Open_Report-blue?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
+ </a>
+ <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
 - Gibbs Sampling

@@ -11,18 +11,30 @@
 ## Works & Projects
 
 ### [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+<p>
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+ </a>
+</p>
 - A Mathematical Model and Application on Prevention of Gerrymandering
 - Developed an analytical approaches in order to show the detrimental effects of a malpractise named gerrymandering
 - Several technologies have been used such as CPLEX Java API, R, QGIS.
 - A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases
 - A Tabu search algorithm has been employed for relatively large cases
-- [codebase](https://github.com/stopdemir/Tabu-Search-Implementation)
 <p align="center">
  <img src="/assets/img/istanbul.png" />
 </p>
 
 
 ### [A Machine Learning Study on a Finance Dataset](https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb)
+<p>
+ <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
+  <img src=https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18 alt="Open Notebook">
+ <a>
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+ </a>
+</p>
 - Several Machine Learning Techniques
 - Feature Engineering
 - Dimensionality Reduction and Visualization of a High Dimensional Dataset

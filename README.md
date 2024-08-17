@@ -1,4 +1,5 @@
 # Data Scientist
+
 ```javascript
 {
   "firstName": "Süleyman",
@@ -9,6 +10,16 @@
 }
 ```
 ## Works & Projects
+
+```javascript
+{
+  "firstName": "Süleyman",
+  "lastName": "Topdemir",
+  "yearOfBirth": 1993,
+  "email" : "topdemirsuleyman13@gmail.com",
+  "profession" : "Data Scientist",  
+}
+```
 
 ### [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
 <p>

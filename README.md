@@ -61,7 +61,7 @@
 ### [Recognizing Handwritten Digits by using Artificial Neural Network](https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf)
 <p>
  <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf">
-  <img src="https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
+  <img src="https://img.shields.io/badge/PDF-Open_Report-blue?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
  </a>
 </p>
 - Matlab Implementation of a Feed Forward Neural Network 
@@ -74,7 +74,7 @@
 ### [Gibbs Sampling & EM Algorithm Implementation](https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf)
 <p>
  <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf">
-  <img src="https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
+  <img src="https://img.shields.io/badge/PDF-Open_Report-blue?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
  </a>
 </p>
 - Gibbs Sampling

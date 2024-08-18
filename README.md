@@ -1,13 +1,16 @@
 # Portfolio
 <hr>
 
-## [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+## Master Thesis
 <p>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
  </a>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+ </a>
+ <a href="https://research.sabanciuniv.edu/id/eprint/36870/">
+  <img src="https://img.shields.io/badge/show%20on-web-yellow.svg" alt="Show on University's Database">
  </a>
 </p>
 - A Mathematical Model and Application on Prevention of Gerrymandering

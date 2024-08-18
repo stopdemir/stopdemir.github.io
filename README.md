@@ -11,9 +11,11 @@
 ```
 ## Works & Projects
 
-
 ### [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
 <p>
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf">
+  <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
+ </a>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
@@ -31,7 +33,7 @@
 ### A Machine Learning Study on a Finance Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
-  <img src="https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18" alt="Open Notebook">
+  <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="View Notebook">
  </a>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -140,4 +142,6 @@
 - **Full Scholarship**, TOBB University of Economics and Technology, BSc
 - **in top 0.2%**, National University Entrance Exam
 
+[comment]: <> (YOU MAY WANNA USE THIS)
+[comment]: <> (https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)
 

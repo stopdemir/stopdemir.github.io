@@ -1,17 +1,7 @@
-# Data Scientist
+# Portfolio
 <hr>
-```javascript
-{
-  "firstName": "Süleyman",
-  "lastName": "Topdemir",
-  "yearOfBirth": 1993,
-  "email" : "topdemirsuleyman13@gmail.com",
-  "profession" : "Data Scientist",  
-}
-```
-## Works & Projects
 
-### [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
+## [Master Thesis](https://research.sabanciuniv.edu/id/eprint/36870/)
 <p>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
@@ -30,7 +20,7 @@
 </p>
 <hr>
 
-### A Machine Learning Study on a Finance Dataset
+## A Machine Learning Study on a Finance Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
@@ -46,7 +36,7 @@
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
 <hr>
 
-### Descriptive Data Analysis on an Ecommerce Dataset
+## Descriptive Data Analysis on an Ecommerce Dataset
 <p>
  <a href="https://github.com/stopdemir/ecommerce-data-analysis">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -60,7 +50,7 @@
 </p>
 <hr>
 
-### Recognizing Handwritten Digits by using Artificial Neural Network
+## Recognizing Handwritten Digits by using Artificial Neural Network
 <p>
  <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
@@ -76,7 +66,7 @@
 </p>
 <hr>
 
-### Gibbs Sampling & EM Algorithm Implementation
+## Gibbs Sampling & EM Algorithm Implementation
 <p>
  <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
@@ -92,7 +82,7 @@
 </p>
 <hr>
 
-### [Stock Control System](https://github.com/stopdemir/stock-control-system-MS-Access)
+## Stock Control System
 <p>
  <a href="https://github.com/stopdemir/stock-control-system-MS-Access">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -104,7 +94,7 @@
 </p>
 <hr>
 
-### [Political Districting Problem](https://github.com/stopdemir/Political-Districting-Problem)
+## Political Districting Problem
 <p>
  <a href="https://github.com/stopdemir/Political-Districting-Problem">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
@@ -117,6 +107,8 @@
  <img src="assets/img/no.png" width="47%" height="47%" /> 
 </p>
 <hr>
+
+# About Me
 
 ## Work Experience
 - Data Scientist, Afiniti (2021-2022)

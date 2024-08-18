@@ -8,6 +8,9 @@ description: #text below the image
     <a href="https://www.github.com/stopdemir">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Go to the GitHub Profile">
     </a>
+    <a href="https://www.kaggle.com/stopdemir">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Go to the Kaggle Profile">
+    </a>
   </p></p>
 
 theme: jekyll-theme-minimal

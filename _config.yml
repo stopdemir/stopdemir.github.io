@@ -11,6 +11,9 @@ description: #text below the image
     <a href="https://www.kaggle.com/stopdemir">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Go to the Kaggle Profile">
     </a>
+    <a href="https://www.upwork.com/freelancers/~0139852018699c805e">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Go to the Upwork Profile">
+    </a>
   </p></p>
 
 theme: jekyll-theme-minimal

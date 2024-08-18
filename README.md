@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
  <a href="https://research.sabanciuniv.edu/id/eprint/36870/">
-  <img src="https://img.shields.io/badge/show%20on-university-database-yellow.svg" alt="Show on University's Database">
+  <img src="https://img.shields.io/badge/show_on-university_database-yellow" alt="Show on University's Database">
  </a>
 </p>
 - A Mathematical Model and Application on Prevention of Gerrymandering

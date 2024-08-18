@@ -33,7 +33,7 @@
 ### A Machine Learning Study on a Finance Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
-  <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="View Notebook">
+  <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
  </a>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">

@@ -1,5 +1,6 @@
 # Portfolio
 <hr>
+<br/>
 
 ## Master Thesis
 <p>
@@ -27,6 +28,7 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 <hr>
+<br/>
 
 ## A Machine Learning Study on a Finance Dataset
 <p>
@@ -48,6 +50,7 @@
   
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
 <hr>
+<br/>
 
 ## Descriptive Data Analysis on an Ecommerce Dataset
 <p>
@@ -70,6 +73,7 @@
  <img src="/assets/img/dist_age_gender.png"/>
 </p>
 <hr>
+<br/>
 
 ## Recognizing Handwritten Digits by using Artificial Neural Network
 <p>
@@ -86,6 +90,7 @@
  <img src="/assets/img/mnist_dataset_vis.png" width="50%" height="50%" />
 </p>
 <hr>
+<br/>
 
 ## Gibbs Sampling & EM Algorithm Implementation
 <p>
@@ -98,10 +103,14 @@
 </p>
 - Gibbs Sampling
 - Expectation-Maximization Algorithm
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</p>
 <p align="center">
  <img src="/assets/img/pair_diagram.png" width="50%" height="50%" />
 </p>
 <hr>
+<br/>
 
 ## Stock Control System
 <p>
@@ -117,6 +126,7 @@
  <img src="/assets/img/main_form.png" width="50%" height="50%" />
 </p>
 <hr>
+<br/>
 
 ## Political Districting Problem
 <p>
@@ -126,11 +136,16 @@
 </p>
 - Demonstrating the detrimental effects of [gerrymandering](https://www.britannica.com/topic/Moore-v-Harper) with mathematical programming
 - the model is implemented by using CPLEX Java API
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</p>
 <p align="center">
  <img src="/assets/img/yes.png" width="47%" height="47%" />
  <img src="assets/img/no.png" width="47%" height="47%" /> 
 </p>
 <hr>
+<br/>
 
 # About Me
 

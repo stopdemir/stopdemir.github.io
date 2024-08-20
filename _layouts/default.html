@@ -15,7 +15,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 align="center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <!-- <h1 align="center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+        <h1 align="center">{{ site.title | default: site.github.repository_name }}</h1>
 
         <div align="center">
         {% if site.logo %}

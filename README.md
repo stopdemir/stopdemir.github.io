@@ -127,7 +127,7 @@
 </p>
 - The user interface developed on MS Access allows users to effortlessly enter, delete, and retrieve information from the database
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="15%" height=auto>
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="20%" height=auto>
 </p>
 <p align="center">
  <img src="/assets/img/main_form.png" width="50%" height="50%" />

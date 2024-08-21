@@ -21,7 +21,7 @@
 - A Tabu search algorithm has been employed for relatively large cases
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="15%" height=auto>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="20%" height=auto>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="15%" height=auto>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" width="15%" height=auto>
 </p>
 
@@ -127,7 +127,7 @@
 </p>
 - The user interface developed on MS Access allows users to effortlessly enter, delete, and retrieve information from the database
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="20%" height=auto>
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" width="25%" height=auto>
 </p>
 <p align="center">
  <img src="/assets/img/main_form.png" width="50%" height="50%" />

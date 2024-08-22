@@ -91,6 +91,7 @@
 - Matlab Implementation of a Feed Forward Neural Network on MNIST Dataset
 <p>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" >
+  <img src="https://img.shields.io/badge/MATLAB-7FDBFF?style=for-the-badge" >
 </p>
 <p align="center">
  <img src="/assets/img/mnist_dataset_vis.png" width="50%" height="50%" />

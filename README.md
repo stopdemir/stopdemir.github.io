@@ -131,7 +131,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
 </p>
 <p align="center">
- <img src="/assets/img/main_form.png" width="50%" height="50%" />
+ <img src="/assets/img/main_form.png" width="55%" height="55%" />
 </p>
 <hr>
 <br/>

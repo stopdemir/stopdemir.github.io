@@ -4,13 +4,13 @@
 
 ## Master Thesis
 <p>
- <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf">
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf" target="_blank">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
  </a>
- <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
- <a href="https://research.sabanciuniv.edu/id/eprint/36870/">
+ <a href="https://research.sabanciuniv.edu/id/eprint/36870/" target="_blank">
   <img src="https://img.shields.io/badge/show_on-university_database-yellow" alt="Show on University's Database">
  </a>
 </p>
@@ -33,10 +33,10 @@
 
 ## A Machine Learning Study on a Finance Dataset
 <p>
- <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb">
+ <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
  </a>
- <a href="https://github.com/stopdemir/Tabu-Search-Implementation">
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
@@ -58,7 +58,7 @@
 
 ## Descriptive Data Analysis on an Ecommerce Dataset
 <p>
- <a href="https://github.com/stopdemir/ecommerce-data-analysis">
+ <a href="https://github.com/stopdemir/ecommerce-data-analysis" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
@@ -81,10 +81,10 @@
 
 ## Recognizing Handwritten Digits by using Artificial Neural Network
 <p>
- <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf">
+ <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf" target="_blank">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
  </a>
- <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network">
+ <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
@@ -101,10 +101,10 @@
 
 ## Gibbs Sampling & EM Algorithm Implementation
 <p>
- <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf">
+ <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-/blob/master/Final%20Report.pdf" target="_blank">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
  </a>
- <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-">
+ <a href="https://github.com/stopdemir/Gibbs-Sampling-EM-Algorithm-Implementation-" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
@@ -122,7 +122,7 @@
 
 ## Stock Control System
 <p>
- <a href="https://github.com/stopdemir/stock-control-system-MS-Access">
+ <a href="https://github.com/stopdemir/stock-control-system-MS-Access" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
@@ -138,7 +138,7 @@
 
 ## Political Districting Problem
 <p>
- <a href="https://github.com/stopdemir/Political-Districting-Problem">
+ <a href="https://github.com/stopdemir/Political-Districting-Problem" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
@@ -149,8 +149,8 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >
 </p>
 <p align="center">
- <img src="/assets/img/yes.png" width="47%" height="47%" />
- <img src="assets/img/no.png" width="47%" height="47%" /> 
+ <img src="/assets/img/yes.png" width="47%" height="48%" />
+ <img src="assets/img/no.png" width="47%" height="48%" /> 
 </p>
 <hr>
 <br/>

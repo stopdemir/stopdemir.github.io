@@ -3,6 +3,7 @@
 <br/>
 
 ## Master Thesis
+<div box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px>
 <p>
  <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf" target="_blank">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
@@ -28,6 +29,7 @@
 <p align="center">
  <img src="/assets/img/istanbul.png" />
 </p>
+</div>
 <hr>
 <br/>
 

@@ -31,7 +31,7 @@
 <hr>
 <br/>
 
-## Machine Learning Models of a Financial Dataset
+## Machine Learning Models for Analyzing a Financial Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
@@ -56,7 +56,7 @@
 <hr>
 <br/>
 
-## Descriptive Data Analysis of an Ecommerce Dataset
+## Descriptive Data Analytics of an E-commerce Dataset
 <p>
  <a href="https://github.com/stopdemir/ecommerce-data-analysis" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">

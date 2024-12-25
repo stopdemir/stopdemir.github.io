@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" >
 </p>
 <p align="center">
- <img src="/assets/img/dist_age_gender.png"/>
+ <img src="/assets/img/wordcloudecom.png"/>
 </p>
 <hr>
 <br/>

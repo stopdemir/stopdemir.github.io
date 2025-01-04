@@ -14,11 +14,10 @@
   <img src="https://img.shields.io/badge/show_on-university_database-yellow" alt="Show on University's Database">
  </a>
 </p>
-- A Mathematical Model and Application on Prevention of Gerrymandering
-- Developed an analytical approaches in order to show the detrimental effects of a malpractise named gerrymandering
-- Several technologies have been used such as CPLEX Java API, R, QGIS.
+- Developed an analytical approach to highlight the detrimental effects of gerrymandering on electoral fairness.
+- Utilized advanced technologies, including CPLEX Java API, R, and QGIS, to support modeling and analysis.
 - A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases
-- A Tabu search algorithm has been employed for relatively large cases
+- Designed and implemented a tabu search algorithm for efficient solutions to large-scale cases.
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >

@@ -175,6 +175,7 @@
 
 ## Achievements
 - **Full Scholarship**, Sabanci University, PhD
+- **Honor Degree**, Sabanci University, MSc
 - **Full Scholarship**, Sabanci University, MSc
 - **High Honor Degree**, TOBB University of Economics and Technology, BSc
 - **Full Scholarship**, TOBB University of Economics and Technology, BSc

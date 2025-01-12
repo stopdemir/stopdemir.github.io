@@ -157,6 +157,7 @@
 # About Me
 
 ## Work Experience
+- Freelance Data Scientist (2022-Present)
 - Data Scientist, Afiniti (2021-2022)
 - Teaching Assistant, Sabanci University (2016-2021)
 - Research Assistant, Sabanci University (2017)

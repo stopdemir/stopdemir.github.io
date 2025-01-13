@@ -16,7 +16,7 @@
 </p>
 - Developed an analytical approach to highlight the detrimental effects of gerrymandering on electoral fairness.
 - Utilized advanced technologies, including CPLEX Java API, R, and QGIS, to support modeling and analysis.
-- A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases
+- A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases.
 - Designed and implemented a tabu search algorithm for efficient solutions to large-scale cases.
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">

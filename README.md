@@ -142,7 +142,7 @@
  </a>
 </p>
 - Demonstrating the detrimental effects of [gerrymandering](https://www.britannica.com/topic/Moore-v-Harper) with mathematical programming
-- the model is implemented by using CPLEX Java API
+- The model is implemented by using CPLEX Java API
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >

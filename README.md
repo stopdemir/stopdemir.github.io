@@ -164,7 +164,7 @@
 - Data Scientist, Afiniti (2021-2022)
 - Teaching Assistant, Sabanci University (2016-2021)
 - Research Assistant, Sabanci University (2017)
-- Intern, Turkish Aerospace Industries (2016)
+- Intern, Turkish Aerospace Industries Inc. (2016)
 - Intern, Tempo Uno Kft. (2015)
 - Intern, BTA/TAV Airports (2014)
 <hr>

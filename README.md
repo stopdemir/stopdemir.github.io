@@ -28,6 +28,7 @@
 </p>
 
 <hr>
+<br/>
 
 ## Machine Learning Models for Analyzing a Financial Dataset
 <p>
@@ -188,5 +189,4 @@
 
 [comment]: <> (YOU MAY WANNA USE THIS)
 [comment]: <> (https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)
-[comment]: <> (<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 20px; background: #fff; margin-bottom: 20px;">
-)
+[comment]: <> (<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 20px; background: #fff; margin-bottom: 20px;">)

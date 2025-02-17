@@ -1,6 +1,5 @@
 # Portfolio
 <hr>
-<br/>
 
 ## Master Thesis
 <p>

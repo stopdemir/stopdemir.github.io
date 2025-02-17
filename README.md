@@ -27,7 +27,7 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 
-
+<hr>
 
 ## Machine Learning Models for Analyzing a Financial Dataset
 <p>

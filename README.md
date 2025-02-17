@@ -1,6 +1,5 @@
 # Portfolio
-<hr>
-<br/>
+
 
 
 <div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 20px; background: #fff; margin-bottom: 20px;">
@@ -31,8 +30,7 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 </div>
-<hr>
-<br/>
+
 
 ## Machine Learning Models for Analyzing a Financial Dataset
 <p>

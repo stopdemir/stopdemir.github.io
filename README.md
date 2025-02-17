@@ -1,8 +1,7 @@
 # Portfolio
 
 
-
-<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 20px; background: #fff; margin-bottom: 20px;">
+<div style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
 
 ## Master Thesis
 <p>

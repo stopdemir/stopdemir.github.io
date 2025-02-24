@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
-- Several Machine Learning Techniques
-- Feature Engineering
-- Dimensionality Reduction and Visualization of a High Dimensional Dataset
+- Applied several machine learning techniques
+- Feature engineering
+- Dimensionality reduction and visualization of a high dimensional dataset
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" >
@@ -62,9 +62,8 @@
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
-- A Descriptive Statistical Data Analysis
-- Ecommerce Dataset
-- Funnel Analysis 
+- A descriptive analysis on an e-commerce website dataset
+- Applied a funnel analysis 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" >

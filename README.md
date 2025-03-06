@@ -30,7 +30,7 @@
 <hr>
 <br/>
 
-## Machine Learning Models for Analyzing a Financial Dataset
+## Machine Learning Project for Analyzing a Financial Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">

@@ -109,7 +109,7 @@
  </a>
 </p>
 - Mandatory course project for [Simulation Methods for Statistical Inference](https://people.sabanciuniv.edu/sinanyildirim/Lecture_notes.pdf)
-- Gibbs Sampling and Expectation-Maximization Algorithm
+- Applied Gibbs sampling and Expectation-Maximization algorithm
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" >

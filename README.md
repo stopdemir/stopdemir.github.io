@@ -1,35 +1,6 @@
 # Portfolio
 <hr>
 
-## Master Thesis
-<p>
- <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
- </a>
- <a href="https://github.com/stopdemir/Tabu-Search-Implementation" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
- </a>
- <a href="https://research.sabanciuniv.edu/id/eprint/36870/" target="_blank">
-  <img src="https://img.shields.io/badge/show_on-university_database-yellow" alt="Show on University's Database">
- </a>
-</p>
-- Developed an analytical approach to highlight the detrimental effects of gerrymandering on electoral fairness.
-- Utilized advanced technologies, including CPLEX Java API, R, and QGIS, to support modeling and analysis.
-- A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases.
-- Designed and implemented a tabu search algorithm for efficient solutions to large-scale cases.
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-</p>
-
-<p align="center">
- <img src="/assets/img/istanbul.png" />
-</p>
-
-<hr>
-<br/>
-
 ## Machine Learning Project for Analyzing a Financial Dataset
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb" target="_blank">
@@ -134,6 +105,35 @@
 <p align="center">
  <img src="/assets/img/main_form.png" width="55%" height="55%" />
 </p>
+<hr>
+<br/>
+
+## Master Thesis
+<p>
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation/blob/master/Thesis/MASTER%20THESIS.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
+ </a>
+ <a href="https://github.com/stopdemir/Tabu-Search-Implementation" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+ </a>
+ <a href="https://research.sabanciuniv.edu/id/eprint/36870/" target="_blank">
+  <img src="https://img.shields.io/badge/show_on-university_database-yellow" alt="Show on University's Database">
+ </a>
+</p>
+- Developed an analytical approach to highlight the detrimental effects of gerrymandering on electoral fairness.
+- Utilized advanced technologies, including CPLEX Java API, R, and QGIS, to support modeling and analysis.
+- A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases.
+- Designed and implemented a tabu search algorithm for efficient solutions to large-scale cases.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+</p>
+
+<p align="center">
+ <img src="/assets/img/istanbul.png" />
+</p>
+
 <hr>
 <br/>
 

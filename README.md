@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
-- Applied several machine learning techniques
-- Feature engineering
+- Applied several machine learning techniques to achieve promising results
 - Dimensionality reduction and visualization of a high dimensional dataset
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >

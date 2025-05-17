@@ -33,7 +33,7 @@
  </a>
 </p>
 - A descriptive analysis on an e-commerce website dataset
-- Applied a funnel analysis 
+- Applied a funnel analysis on the dataset
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" >

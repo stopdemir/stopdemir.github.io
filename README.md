@@ -160,8 +160,7 @@
 # About Me
 
 ## Work Experience
-- Research Assistant, Toronto Metropolitan University (2025-Present)
-- Freelance Data Scientist (2022-2025)
+- Freelance Data Scientist (2022-Present)
 - Data Scientist, Afiniti (2021-2022)
 - Teaching Assistant, Sabanci University (2016-2021)
 - Research Assistant, Sabanci University (2017)
@@ -171,7 +170,6 @@
 <hr>
 
 ## Education
-- Industrial Engineering, PhD, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-Present)
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
 - Engineering and Policy Management, MSc, [Delft University of Technology](https://www.tudelft.nl/en/) (Erasmus+ 2017)
 - Industrial Engineering, MSc, [Sabanci University](https://sabanciuniv.edu/en) (2016-2019)
@@ -180,7 +178,6 @@
 <hr>
 
 ## Achievements
-- **Full Scholarship**, Toronto Metropolitan University, PhD
 - **Full Scholarship**, Sabanci University, PhD
 - **Honor Degree**, Sabanci University
 - **Full Scholarship**, Sabanci University, MSc
@@ -191,3 +188,5 @@
 [comment]: <> (YOU MAY WANNA USE THIS)
 [comment]: <> (https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)
 [comment]: <> (<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 20px; background: #fff; margin-bottom: 20px;">)
+[comment]: <> (- Industrial Engineering, PhD, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-Present))
+[comment]: <> (- **Full Scholarship**, Toronto Metropolitan University, PhD)

@@ -163,16 +163,17 @@
 # About Me
 
 ## Work Experience
-- Freelance Data Scientist (2022-Present)
+- Teaching & Research Assistant, TMU Data Science Lab (2025-present)
+- Freelance Data Scientist (2022-2025)
 - Data Scientist, Afiniti (2021-2022)
-- Teaching Assistant, Sabanci University (2016-2021)
-- Research Assistant, Sabanci University (2017)
+- Teaching & Research Assistant, Sabanci University (2016-2021)
 - Intern, Turkish Aerospace Industries Inc. (2016)
 - Intern, Tempo Uno Kft. (2015)
 - Intern, BTA/TAV Airports (2014)
 <hr>
 
 ## Education
+- Industrial Engineering, PhD, [Toronto Metropolitan University] (https://www.torontomu.ca) (2025-present)
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
 - Engineering and Policy Management, MSc, [Delft University of Technology](https://www.tudelft.nl/en/) (Erasmus+ 2017)
 - Industrial Engineering, MSc, [Sabanci University](https://sabanciuniv.edu/en) (2016-2019)
@@ -181,6 +182,7 @@
 <hr>
 
 ## Achievements
+- **Full Scholarship**, Toronto Metropolitan University, PhD
 - **Full Scholarship**, Sabanci University, PhD
 - **Honor Degree**, Sabanci University
 - **Full Scholarship**, Sabanci University, MSc

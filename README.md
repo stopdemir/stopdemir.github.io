@@ -173,9 +173,9 @@
 <hr>
 
 ## Education
-- Industrial Engineering, PhD, [Toronto Metropolitan University] (https://www.torontomu.ca) (2025-present)
+- Industrial Engineering, PhD, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-present)
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
-- Engineering and Policy Management, MSc, [Delft University of Technology](https://www.tudelft.nl/en/) (Erasmus+ 2017)
+- Engineering and Policy Management, MSc, [Delft University of Technology](https://www.tudelft.nl/en/) (2017 Erasmus+)
 - Industrial Engineering, MSc, [Sabanci University](https://sabanciuniv.edu/en) (2016-2019)
 - Industrial Engineering, BSc, [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) (2011-2016)
 - Natural Sciences, High School, Isparta Süleyman Demirel Science High School (2007-2011)

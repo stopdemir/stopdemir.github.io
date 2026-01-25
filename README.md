@@ -3,7 +3,7 @@
 
 ## Machine Learning Project for Analyzing a Financial Dataset
 <p>
- <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb" target="_blank">
+ <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb?flush_cache=true" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
  </a>
  <a href="https://github.com/stopdemir/Machine-Learning-Study" target="_blank">
@@ -28,7 +28,7 @@
 
 ## Descriptive and Funnel Analysis of an E-commerce Dataset
 <p>
- <a href="https://nbviewer.org/github/stopdemir/ecommerce-data-analysis/blob/main/data_analysis.ipynb" target="_blank">
+ <a href="https://nbviewer.org/github/stopdemir/ecommerce-data-analysis/blob/main/data_analysis.ipynb?flush_cache=true" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
  </a>
  <a href="https://github.com/stopdemir/ecommerce-data-analysis" target="_blank">

@@ -182,7 +182,7 @@
 <hr>
 
 ## Achievements
-- **Full Scholarship**, Toronto Metropolitan University, PhD
+- **Fully Funded**, Toronto Metropolitan University, PhD
 - **Full Scholarship**, Sabanci University, PhD
 - **Honor Degree**, Sabanci University
 - **Full Scholarship**, Sabanci University, MSc

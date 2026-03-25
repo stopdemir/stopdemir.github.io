@@ -1,4 +1,3 @@
-# Portfolio
 <hr>
 
 ## Machine Learning Project for Analyzing a Financial Dataset

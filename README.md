@@ -1,6 +1,6 @@
 <hr>
 
-## Machine Learning Project for Analyzing a Financial Dataset
+## Predictive Financial Analytics: A Machine Learning Approach
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb?flush_cache=true" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
@@ -25,7 +25,7 @@
 <hr>
 <br/>
 
-## Descriptive and Funnel Analysis of an E-commerce Dataset
+## E-Commerce Analytics: Descriptive & Funnel Analysis
 <p>
  <a href="https://nbviewer.org/github/stopdemir/ecommerce-data-analysis/blob/main/data_analysis.ipynb?flush_cache=true" target="_blank">
   <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter" alt="View Notebook">
@@ -138,7 +138,7 @@
 <hr>
 <br/>
 
-## Political Districting Problem
+## Political Districting Problem 
 <p>
  <a href="https://github.com/stopdemir/Political-Districting-Problem" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">

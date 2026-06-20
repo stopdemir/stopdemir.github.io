@@ -1,5 +1,3 @@
-<hr>
-
 ## Predictive Financial Analytics: A Machine Learning Approach
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb?flush_cache=true" target="_blank">
@@ -51,7 +49,7 @@
 <hr>
 <br/>
 
-## Recognizing Handwritten Digits by using Artificial Neural Network
+## Recognizing Handwritten Digits by using Artificial Neural Networks
 <p>
  <a href="https://github.com/stopdemir/Recognizing-Handwritten-Digits-by-using-Artificial-Neural-Network/blob/main/Report%20Neural%20Network.pdf" target="_blank">
   <img src="https://img.shields.io/badge/PDF-Open_Report-red?logo=adobe-acrobat-reader&logoColor=white" alt="Open the Report">
@@ -172,7 +170,7 @@
 <hr>
 
 ## Education
-- Industrial Engineering, PhD, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-present)
+- Industrial Engineering, MASc, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-present)
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
 - Engineering and Policy Management, MSc, [Delft University of Technology](https://www.tudelft.nl/en/) (2017 Erasmus+)
 - Industrial Engineering, MSc, [Sabanci University](https://sabanciuniv.edu/en) (2016-2019)
@@ -181,7 +179,7 @@
 <hr>
 
 ## Achievements
-- **Fully Funded**, Toronto Metropolitan University, PhD
+- **Fully Funded**, Toronto Metropolitan University, PhD (Mastered Out)
 - **Full Scholarship**, Sabanci University, PhD
 - **Honor Degree**, Sabanci University
 - **Full Scholarship**, Sabanci University, MSc

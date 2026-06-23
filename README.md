@@ -8,7 +8,7 @@
  </a>
 </p>
 - Applied several machine learning techniques to achieve promising results
-- Dimensionality reduction and visualization of a high dimensional dataset
+- Dimensionality reduction and visualization of a high-dimensional dataset
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" >
@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
-- A descriptive analysis on an e-commerce website dataset
-- Applied a funnel analysis on the dataset
+- A descriptive analysis of an e-commerce website dataset
+- Applied a funnel analysis to the dataset
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" >
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
-- Matlab Implementation of a Feed Forward Neural Network on MNIST Dataset
+- Matlab Implementation of a Feedforward Neural Network on [the MNIST Dataset](https://en.wikipedia.org/wiki/MNIST_database)
 <p>
   <img src="https://img.shields.io/badge/MATLAB-7FDBFF?style=for-the-badge" >
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" >
@@ -79,7 +79,7 @@
  </a>
 </p>
 - Mandatory course project for [Simulation Methods for Statistical Inference](https://people.sabanciuniv.edu/sinanyildirim/Lecture_notes.pdf)
-- Applied Gibbs sampling and Expectation-Maximization algorithm on the Iris dataset
+- Applied Gibbs sampling and Expectation-Maximization algorithm to the Iris dataset
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" >
@@ -121,7 +121,7 @@
 </p>
 - Developed an analytical approach to highlight the detrimental effects of gerrymandering on electoral fairness.
 - Utilized advanced technologies, including CPLEX Java API, R, and QGIS, to support modeling and analysis.
-- A Mixed-Integer Mathematical Model developed and solved optimally for relatively small cases.
+- Developed and solved a Mixed-Integer Mathematical Model optimally for relatively small cases.
 - Designed and implemented a tabu search algorithm for efficient solutions to large-scale cases.
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -143,7 +143,7 @@
  </a>
 </p>
 - Demonstrating the detrimental effects of [gerrymandering](https://www.britannica.com/topic/Moore-v-Harper) with mathematical programming
-- The model is implemented by using CPLEX Java API
+- The model is implemented using the CPLEX Java API
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" >

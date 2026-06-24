@@ -179,7 +179,7 @@
 <hr>
 
 ## Achievements
-- **Fully Funded**, Toronto Metropolitan University, PhD (Mastered Out)
+- **Fully Funded**, Toronto Metropolitan University, MASc
 - **Full Scholarship**, Sabanci University, PhD
 - **Honor Degree**, Sabanci University
 - **Full Scholarship**, Sabanci University, MSc

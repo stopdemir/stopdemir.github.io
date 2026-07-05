@@ -1,3 +1,6 @@
+---
+title: Süleyman Topdemir
+---
 ## Predictive Financial Analytics: A Machine Learning Approach
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb?flush_cache=true" target="_blank">

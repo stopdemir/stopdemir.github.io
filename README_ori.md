@@ -1,5 +1,3 @@
-<div class="project-card" markdown="1">
-
 ## Predictive Financial Analytics: A Machine Learning Approach
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb?flush_cache=true" target="_blank">
@@ -22,10 +20,8 @@
 </p>
   
 ![tsne](https://github.com/stopdemir/stopdemir.github.io/assets/34776037/1700e93c-6343-4af2-9f3f-ca3c4bbb85aa)
-
-</div>
-
-<div class="project-card" markdown="1">
+<hr>
+<br/>
 
 ## E-Commerce Analytics: Descriptive & Funnel Analysis
 <p>
@@ -50,10 +46,8 @@
 <p align="center">
  <img src="/assets/img/wordcloudecom.png"/>
 </p>
-
-</div>
-
-<div class="project-card" markdown="1">
+<hr>
+<br/>
 
 ## Recognizing Handwritten Digits by using Artificial Neural Networks
 <p>
@@ -72,10 +66,8 @@
 <p align="center">
  <img src="/assets/img/mnist_dataset_vis.png" width="50%" height="50%" />
 </p>
-
-</div>
-
-<div class="project-card" markdown="1">
+<hr>
+<br/>
 
 ## Gibbs Sampling & EM Algorithm Implementation
 <p>
@@ -95,10 +87,8 @@
 <p align="center">
  <img src="/assets/img/pair_diagram.png" width="50%" height="50%" />
 </p>
-
-</div>
-
-<div class="project-card" markdown="1">
+<hr>
+<br/>
 
 ## Stock Control System
 <p>
@@ -114,10 +104,8 @@
 <p align="center">
  <img src="/assets/img/main_form.png" width="55%" height="55%" />
 </p>
-
-</div>
-
-<div class="project-card" markdown="1">
+<hr>
+<br/>
 
 ## Master Thesis
 <p>
@@ -145,9 +133,8 @@
  <img src="/assets/img/istanbul.png" />
 </p>
 
-</div>
-
-<div class="project-card" markdown="1">
+<hr>
+<br/>
 
 ## Political Districting Problem 
 <p>
@@ -166,10 +153,9 @@
  <img src="/assets/img/yes.png" width="47%" height="48%" />
  <img src="assets/img/no.png" width="47%" height="48%" /> 
 </p>
-
-</div>
-
 <hr>
+<br/>
+
 
 # About Me
 

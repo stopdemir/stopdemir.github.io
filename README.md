@@ -1,8 +1,8 @@
 <div class="project-card" markdown="1">
 
-## Summary
+## Welcome to /stopdemir
 
-Data Scientist & Operations Research Specialist, I'm currently a MASc student in industrial engineering at Toronto Metropolitan University and I'll be graduating in August 2026. I have a strong interest in bridging theory and practice in Optimization, Machine Learning, and Artificial Intelligence—translating profound mathematical insights into deployable, high-impact solutions.
+I'm Suleyman Topdemir, a MASc student in Industrial Engineering at Toronto Metropolitan University. I'll be graduating in August 2026. I have a background in industrial engineering and experience as a data scientist at a global tech company. I'm interested in _Optimization_, _Machine Learning_, and _Artificial Intelligence_—especially in turning math into real-world solutions that actually work.
 </div>
 
 <div class="project-card" markdown="1">

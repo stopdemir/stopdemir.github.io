@@ -4,13 +4,12 @@ title: About
 ---
 
 <div class="project-card" markdown="1">
+## Welcome to /stopdemir
 
-## Summary
-
-Data Scientist & Operations Research Specialist, I'm currently a MASc student in industrial engineering at Toronto Metropolitan University and I'll be graduating in August 2026. I have a strong interest in bridging theory and practice in Optimization, Machine Learning, and Artificial Intelligence—translating profound mathematical insights into deployable, high-impact solutions.
-
+I'm Suleyman, a MASc student in Industrial Engineering at Toronto Metropolitan University. I have a background in industrial engineering and experience as a data scientist at a global tech company. I'm interested in Optimization, Machine Learning, and AI—especially in turning math into real-world solutions that actually work.
 </div>
 
+<div class="project-card" markdown="1">
 ## Work Experience
 - Teaching & Research Assistant, TMU Data Science Lab (2025-present)
 - Freelance Data Scientist (2022-2025)
@@ -25,6 +24,7 @@ Data Scientist & Operations Research Specialist, I'm currently a MASc student in
 - Intern, BTA/TAV Airports (2014)
 
 </details>
+</div>
 
 <style>
 .read-more summary {

@@ -47,8 +47,8 @@ Data Scientist & Operations Research Specialist, I'm currently a MASc student in
   margin-top: 4px;
 }
 </style>
-<hr>
 
+<div class="project-card" markdown="1">
 ## Education
 - Industrial Engineering, MASc, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-present)
 - Industrial Engineering, PhD, Sabanci University (2019-2021 Dropout)
@@ -56,8 +56,9 @@ Data Scientist & Operations Research Specialist, I'm currently a MASc student in
 - Industrial Engineering, MSc, [Sabanci University](https://sabanciuniv.edu/en) (2016-2019)
 - Industrial Engineering, BSc, [TOBB University of Economics and Technology](https://www.etu.edu.tr/en) (2011-2016)
 - Natural Sciences, High School, Isparta Süleyman Demirel Science High School (2007-2011)
-<hr>
+</div>
 
+<div class="project-card" markdown="1">
 ## Achievements
 - **Fully Funded**, Toronto Metropolitan University, MASc
 - **Full Scholarship**, Sabanci University, PhD
@@ -66,9 +67,4 @@ Data Scientist & Operations Research Specialist, I'm currently a MASc student in
 - **High Honor Degree**, TOBB University of Economics and Technology
 - **Full Scholarship**, TOBB University of Economics and Technology, BSc
 - **in top 0.2%**, National University Entrance Exam
-
-[comment]: <> (YOU MAY WANNA USE THIS)
-[comment]: <> (https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)
-[comment]: <> (<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 20px; background: #fff; margin-bottom: 20px;">)
-[comment]: <> (- Industrial Engineering, PhD, [Toronto Metropolitan University](https://www.torontomu.ca) (2025-Present))
-[comment]: <> (- **Full Scholarship**, Toronto Metropolitan University, PhD)
+</div>

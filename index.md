@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
+<div class="about-content" markdown="1">
 
 <div class="project-card" markdown="1">
 ## Welcome to /stopdemir
@@ -68,3 +69,11 @@ I'm Suleyman, a MASc student in Industrial Engineering at Toronto Metropolitan U
 - **Full Scholarship**, TOBB University of Economics and Technology, BSc
 - **in top 0.2%**, National University Entrance Exam
 </div>
+
+</div>
+
+<style>
+.about-content {
+  font-size: 15px;
+}
+</style>

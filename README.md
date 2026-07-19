@@ -1,5 +1,12 @@
 <div class="project-card" markdown="1">
 
+## Summary
+
+Data Scientist & Operations Research Specialist, I'm currently a MASc student in industrial engineering at Toronto Metropolitan University and I'll be graduating in August 2026. I have a strong interest in bridging theory and practice in Optimization, Machine Learning, and Artificial Intelligence—translating profound mathematical insights into deployable, high-impact solutions.
+</div>
+
+<div class="project-card" markdown="1">
+
 ## Predictive Financial Analytics: A Machine Learning Approach
 <p>
  <a href="https://nbviewer.org/github/stopdemir/Machine-Learning-Study/blob/main/Machine_Learning_Work.ipynb?flush_cache=true" target="_blank">

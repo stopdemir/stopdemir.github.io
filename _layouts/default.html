@@ -38,8 +38,15 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav class="site-nav">
-          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Portfolio</a>
-          <a href="{{ '/about/' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">About Me</a>
+          <div class="site-nav-track">
+            {% if page.url == '/' %}
+              <span class="nav-indicator" style="left: 0%;"></span>
+            {% else %}
+              <span class="nav-indicator" style="left: 50%;"></span>
+            {% endif %}
+            <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">About</a>
+            <a href="{{ '/portfolio/' | relative_url }}" class="{% if page.url == '/portfolio/' %}active{% endif %}">Portfolio</a>
+          </div>
         </nav>
         </div>
         

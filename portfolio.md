@@ -15,8 +15,8 @@ permalink: /portfolio/
   <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
  </a>
 </p>
-- Applied several machine learning techniques to achieve promising results
-- Dimensionality reduction and visualization of a high-dimensional dataset
+- I evaluated a wide range of machine learning models, from conventional algorithms to advanced boosting methods like _LightGBM_, and achieved promising results.
+- For feature engineering, I applied dimensionality reduction techniques, and I further optimized _LightGBM_ using _Optuna_, a hyperparameter optimization framework.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img src="https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" >

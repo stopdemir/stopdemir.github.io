@@ -170,7 +170,7 @@ permalink: /portfolio/
 </p>
 <p align="center">
  <img src="/assets/img/yes.png" width="47%" height="48%" />
- <img src="assets/img/no.png" width="47%" height="48%" /> 
+ <img src="/assets/img/no.png" width="47%" height="48%" /> 
 </p>
 
 </div>
